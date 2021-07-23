@@ -1,0 +1,22 @@
+1. Jun 29th 1st save: converge time is 14751.069208 seconds
+Bad Result: ef = 1; yet no working points are yielded.
+will try by using Jun 28th 2nd save's initial value. 
+
+2. Jun 29th 2nd save: following entry 1, the converge time is 10114.463s, pareto front is reached
+
+3. Jun 30th 1st attempt: with increased population size to 1000 and generation 5000, using pseudo-random initial population based on location (case 3), the converge time is 57611.097s, yet no working data is found, thus workspace not saved. 
+
+4. Jun 30 1st save: a short re-test of case 4, in terms of effectiveness. As far as I can see,  the case 4 initial value yields satisfactory result in terms of 
+
+5. Jun30 2nd save: the scale of GA mutation function is change to 2, with case 3 as initial population. 
+
+6. Jul 2 1st save:  the total installed capacity of DGs are confined to 5MW. The same code is executed in 3 different platforms: MATLAB R2020b and R2021a on Dell Desktop 5070, and R2021a on ThinkPad T470P.
+Converge Time: {R2020b, Dell 5070, 8940.40s}
+	            {}
+
+7. Jul 3 1st save: The comparison between original Net-Ability and modified Net-Ability. 
+	              Using VMG self-sufficiency indicator:  
+
+8. Jul3 2nd save: The controlled group, whilst the 7th entry is the comparison group
+
+9.  
